@@ -1,6 +1,8 @@
 # GranularMaterials
 
-Here we try to compute the dynamic of a discrete chains (N body).
+Here we compute the dynamic simulation of a discrete chains (N body) using Verlet method
+
+https://en.wikipedia.org/wiki/Verlet_integration
 
 
 1st MATLAB tutorial on [3 body](http://htmlpreview.github.io/?https://github.com/jomorlier/GranularMaterials/blob/master/test_3body.html)
