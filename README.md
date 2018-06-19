@@ -9,7 +9,7 @@ Here we try to compute the dynamics of a discrete chains (N body).
 The general N body code is also available.
 
 This work is a part of an intensive coding party (July 2016, ICA)
-<div style="text-align:center"><img src ="https://github.com/jomorlier/GranularMaterials/blob/master/iCA.jpg" /></div>
+<div style="text-align:center"><img src ="https://github.com/jomorlier/GranularMaterials/blob/master/iCA.jpg" width="40%"/></div>
 
 
 *References*
